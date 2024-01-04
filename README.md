@@ -1,2 +1,4 @@
-# DiceGame
-Dice Game website. Web development project
+# A webpage for playing the Dice by refreshing, showcasing my mastery of 
+### - HTMl
+### - CSS
+### - Javascript
